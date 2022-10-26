@@ -10,10 +10,10 @@
 # Menjalankan IDLE
 1.IDLE ini adalah teks editor bawaan python yang sudah otomatis terinstal
 2. Menjalankan IDLE 
-.Membuat fungsi input untuk mengambil nilai variabel
-.Mencetak hasil inputan 
-.Mencetak hasil inputan variabel dengan format string
-.konversi nilai variabel
+- Membuat fungsi input untuk mengambil nilai variabel
+- Mencetak hasil inputan 
+- Mencetak hasil inputan variabel dengan format string
+- konversi nilai variabel
 ![img.4](screenshot/python%204.png)
 .Hasil dari program 
 ![img.5](screenshot/python%205.png)
